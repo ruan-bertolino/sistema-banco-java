@@ -1,1 +1,14 @@
-/bin/
+# Compilados
+bin/
+out/
+*.class
+
+# Configuração da IDE
+.idea/
+.settings/
+.classpath
+
+# Temporários do SO
+Thumbs.db
+.DS_Store
+
