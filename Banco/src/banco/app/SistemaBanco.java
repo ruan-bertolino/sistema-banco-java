@@ -19,10 +19,10 @@ public class SistemaBanco {
                 "3 - Depositar\n" +
                 "4 - Sacar\n" +
                 "5 - Consultar Saldo\n" +
-                "6 - Exibir Extrato\n" +
-                "7 - Exibir Histórico\n" +
+                "6 - Exibir Extrato da Conta\n" +
+                "7 - Exibir Histórico de Transações\n" +
                 "8 - Listar Todas as Contas\n" +
-                "9 - Relatório Geral\n" +
+                "9 - Relatório Geral do Banco\n" +
                 "0 - Encerrar Sistema"
             );
 
